@@ -1,0 +1,10 @@
+crewai
+crewai-tools
+langchain
+langchain-openai
+embedchain
+yt-dlp
+youtube-transcript-api
+pydantic
+openai
+tqdm
